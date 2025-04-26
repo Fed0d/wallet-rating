@@ -1,2 +1,5 @@
 streamlit==1.44.1
-web3==7.10.0
+jupyter==1.1.1
+tqdm==4.67.1
+shap==0.47.2
+catboost==1.2.8
